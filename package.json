@@ -1,0 +1,29 @@
+{
+  "name": "passion",
+  "version": "1.0.0",
+  "description": "on real programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shecodes-content/passion.git"
+  },
+  "brain": {
+    "provides": [
+      "real-programmers"
+    ],
+    "track": "blue",
+    "bundler": {
+      "name": "bpm-bundle",
+      "version": "1.1.0"
+    }
+  },
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "CC-SA-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/shecodes-content/passion/issues"
+  },
+  "homepage": "https://github.com/shecodes-content/passion"
+}
